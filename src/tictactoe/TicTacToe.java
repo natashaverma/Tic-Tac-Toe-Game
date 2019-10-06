@@ -6,6 +6,7 @@
 package tictactoe;
 
 import javax.swing.JFrame;
+import java.awt.*;
 /**
  *
  * @author hp
